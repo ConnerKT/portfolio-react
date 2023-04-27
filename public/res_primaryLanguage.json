@@ -63,59 +63,59 @@
         "startDate": "2023",
         "description": "",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/dataspreadsheetsite/p1.PNG",
+          "images/portfolio/dataspreadsheetsite/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ConnerKT/cookie-stand",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Crew",
+        "title": "Full Stack Developer",
+        "years": "12.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React 04/20/23"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "ReactJS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "MongoDB",
+          "Tailwind",
+          "Unity",
+          "C#"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "",
+        "title": "Self Taught Software Engineer Freelancer",
+        "years": "01.2022 - 12.2022",
         "mainTech": [
-          "Angular 7/8"
+          "JavaScript "
         ],
         "technologies": [
-          "RxJS",
+          "HTML",
           "Django",
-          "PHP",
+          "Python",
           "JavaScript",
-          "DHTMLX Gantt"
+          "C"
         ]
       }
     ]
