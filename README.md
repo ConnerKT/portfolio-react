@@ -10,5 +10,5 @@ Estimate of time needed to complete: One Hour
 
 Start time: 8:18 PM
 
-Finish time: 9:18
-Actual time needed to complete: _____
+Finish time: 11:18 PM
+Actual time needed to complete: 3-4 Hours
